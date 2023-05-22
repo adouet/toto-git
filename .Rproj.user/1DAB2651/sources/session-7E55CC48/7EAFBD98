@@ -1,7 +1,7 @@
 {
     "id": "7EAFBD98",
-    "path": "~/autres_boulot/elementr/initiation_git/exercice_git/exercice_git.qmd",
-    "project_path": "exercice_git.qmd",
+    "path": "~/autres_boulot/elementr/initiation_git/exercice_git/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "381740346",
     "contents": "",
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684764803888,
+    "last_content_update": 1684764803,
     "read_only": false,
     "read_only_alternatives": []
 }
